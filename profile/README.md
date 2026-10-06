@@ -15,7 +15,11 @@ students, starting with CyberPaw, our capture-the-flag (CTF) platform.
 |---|---|
 | President | [Andrew Cappelli](https://github.com/Andrew-most-likely) |
 | Vice President | [Geovanni Graziano](https://github.com/2bl3) |
+| Secretary | Hugo |
+| Cybersecurity Officer | Jaydon |
+| Public Relations | Prince |
 | Treasurer | [Seamus Hennigan](https://github.com/Seamus-Hennigan) |
+| President, Women's NCSA sub-chapter | Brenna |
 
 ## Get involved
 
